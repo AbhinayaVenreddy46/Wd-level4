@@ -4,6 +4,7 @@
   "description": "",
   "main": "todo.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest",
     "prepare": "husky install"
   },
